@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Natan Ryan </title>
+    <style type = "text/css">
+    nav{
+        background-color: #A9A9A9;
+        padding:20px;
+    }
+    nav a{
+        text-decoration: none;
+        color:	#000000;
+        font-size: 40px;
+    }
+    footer{
+        background-color: #A9A9A9;
+        padding:20px;
+        font-size: 25px;
+        }
+    
+    </style>
+    </head>
+<body>
+    <body style="background-color:	#696969;">
+    <nav>
+     <a> Natan Ryan Mota Ferreira</a>
+    </nav> 
+        <img src="foto.png" width="652" height="694">
+    <footer>
+        <img src="87390.png"  width=20 height=20>
+        <a  href="https://www.instagram.com/natanbuk/" target="_blank">@natanbuk</a>
+        <p></p>
+        
+    </footer>
+</body>
+</html>
